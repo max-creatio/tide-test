@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "724e74fd-122c-411f-b764-48fe710987e4",
+    "Name": "UsrTestApp",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrTestApp.csproj",
+    "DependsOn": [
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      }
+    ]
+  }
+}

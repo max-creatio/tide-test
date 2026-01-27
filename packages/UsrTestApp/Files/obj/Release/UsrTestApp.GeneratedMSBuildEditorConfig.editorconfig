@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = UsrTestApp
+build_property.ProjectDir = D:\App\max01-demo\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\UsrTestApp\Files\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
