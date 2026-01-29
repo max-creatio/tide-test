@@ -1,0 +1,5 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/GlbHistoryInput/Schemas/GlbHistoryValue/GlbHistoryValue.cs" Condition="Exists('$(PkgPath)/GlbHistoryInput/Schemas/GlbHistoryValue/GlbHistoryValue.cs')" />
+	</ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "77069cc5-0be6-4d80-b404-48fe538b9138",
+    "Name": "GlbHistoryValue",
+    "ModifiedOnUtc": "\/Date(1734610596000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "History value",
+    "DependsOn": []
+  }
+}

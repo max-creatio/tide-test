@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c5da0687-f6d3-40c3-b3b3-7d39ab0edf66",
+    "Name": "GlbHistoryValueUtility",
+    "ModifiedOnUtc": "\/Date(1735052884000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "History value utility",
+    "DependsOn": []
+  }
+}

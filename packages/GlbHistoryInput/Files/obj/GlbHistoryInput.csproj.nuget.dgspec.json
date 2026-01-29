@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\App\\dev2-waybill\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GlbHistoryInput\\Files\\GlbHistoryInput.csproj": {}
+  },
+  "projects": {
+    "D:\\App\\dev2-waybill\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GlbHistoryInput\\Files\\GlbHistoryInput.csproj": {
+      "version": "8.1.2.3941",
+      "restore": {
+        "projectUniqueName": "D:\\App\\dev2-waybill\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GlbHistoryInput\\Files\\GlbHistoryInput.csproj",
+        "projectName": "GlbHistoryInput",
+        "projectPath": "D:\\App\\dev2-waybill\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GlbHistoryInput\\Files\\GlbHistoryInput.csproj",
+        "packagesPath": "C:\\Windows\\TEMP\\66\\az_iis-23813b15e4b241fb\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "D:\\App\\dev2-waybill\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\GlbHistoryInput\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Windows\\TEMP\\66\\az_iis-23813b15e4b241fb\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "669fafc6-ee5c-50aa-9795-a56aa075c4e0",
+    "Name": "GlbHistoryInput",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1734817641000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/GlbHistoryInput.csproj",
+    "DependsOn": [
+      {
+        "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCoreBase",
+        "Type": 1
+      }
+    ]
+  }
+}

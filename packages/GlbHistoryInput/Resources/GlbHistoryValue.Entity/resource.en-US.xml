@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="History value" />
+			<Item Name="Columns.GlbColumnName.Caption" Value="Column name" />
+			<Item Name="Columns.GlbEntitySchemaName.Caption" Value="Entity Schema Name" />
+			<Item Name="Columns.GlbValue.Caption" Value="Value" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+		</Items>
+	</Group>
+</Resources>
