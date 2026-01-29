@@ -12,6 +12,10 @@
   "Code": "UsrTestApp",
   "Packages": [
     {
+      "UId": "b394fc15-5e33-b5d0-5e41-5c9e0bb1d9b4",
+      "Name": "UsrOnePackage"
+    },
+    {
       "UId": "724e74fd-122c-411f-b764-48fe710987e4",
       "Name": "UsrTestApp"
     }
