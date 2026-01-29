@@ -1,3 +1,4 @@
 <Solution>
+    <Project Path="packages\GlbHistoryInput\Files\GlbHistoryInput.csproj" />
     <Project Path="packages\UsrTestApp\Files\UsrTestApp.csproj" />
 </Solution>

@@ -5,6 +5,7 @@
     "Type": 1,
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrTestApp.csproj",
+    "Description": "#OriginalMaintainer:Customer",
     "DependsOn": [
       {
         "UId": "3a71e376-9ac3-3049-c62b-9c43b9abe054",

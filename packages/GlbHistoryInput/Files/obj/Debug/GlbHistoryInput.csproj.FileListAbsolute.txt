@@ -1,9 +1,0 @@
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\Bin\GlbHistoryInput.dll
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\Bin\GlbHistoryInput.pdb
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.csproj.AssemblyReference.cache
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.GeneratedMSBuildEditorConfig.editorconfig
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.AssemblyInfoInputs.cache
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.AssemblyInfo.cs
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.csproj.CoreCompileInputs.cache
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.dll
-E:\Work\Creatio_8.2\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\GlbHistoryInput\Files\obj\Debug\GlbHistoryInput.pdb
